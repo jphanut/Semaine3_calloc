@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1645106788 source:/home/margauxhanut/ProjectC/Semaine3_calloc/main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<unistd.h>
+
+1645274822 source:/home/margauxhanut/ProjectC/Semaine3_calloc/testbinarytree.c
+	<stdio.h>
+	<stdlib.h>
+
